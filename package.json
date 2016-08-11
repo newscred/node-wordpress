@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "url": "^0.10.1",
-    "xmlrpc": "1.0.1"
+    "xmlrpc": "^1.3.2"
   },
   "devDependencies": {
     "grunt": "0.3.x",
